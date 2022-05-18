@@ -54,13 +54,15 @@
 
 1. 关注我的知乎：[yuanz](https://www.zhihu.com/people/fa-fa-1-94)
 2. 关注我的公众号：
-<div >    
+<!-- <div >    
 <img height="40%" src="https://gitee.com/yuanzhoulvpi/time_series/raw/master/images/pypi公众号.jpg" width="50%"/>
-</div>
+</div> -->
+![](images/pypi%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
 
 ## 打赏我
-<div>    
+<!-- <div>    
 <img height="40%" src="https://gitee.com/yuanzhoulvpi/time_series/raw/master/images/zs_myself.JPG" width="50%"/>
-</div>
+</div> -->
 
+![](images/zs_myself.JPG)
 
