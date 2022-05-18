@@ -47,8 +47,18 @@
 
 ## 共享内容
 
+
+### 之前
 数据和代码内容，我会全部都放在【gitee】上，因为gitee相对于GitHub对中国用户来说，访问更加的便利。
 链接为：[https://gitee.com/yuanzhoulvpi/time_series](https://gitee.com/yuanzhoulvpi/time_series)
+
+### 现在
+
+之前这个仓库都是放在我的gitee上的，想着中国好朋友可以访问方便一点，没想着在2022-05-17日发现，gitee竟然私自把
+我的仓库搞成“当前仓库 Web 页面仅限仓库成员可访问” 我也是无语！！！！！
+
+这样的肚量的企业有什么资格扛起中国开源的大旗，有什么资格和github做比较，垃圾至极！！！！
+
 
 ## 获得最新消息
 
